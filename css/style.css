@@ -1110,8 +1110,8 @@ ol {
 -----------------------*/
 
 .product {
-	padding-top: 60px;
-	padding-bottom: 50px;
+	padding-top: 70px;
+	padding-bottom: 30px;
 }
 
 .filter__controls {
@@ -3699,6 +3699,11 @@ ol {
 	.search-model-form input {
 		width: 100%;
 		font-size: 24px;
+	}
+	.kategori {
+		position: relative;
+	overflow: hidden;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 	}
 	
 	

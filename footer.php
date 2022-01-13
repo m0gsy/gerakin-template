@@ -29,9 +29,9 @@
                 <div class="footer__widget">
                     <h6>Account</h6>
                     <ul>
-                        <li><a href="#">My Account</a></li>
-                        <li><a href="#">Orders Tracking</a></li>
-                        <li><a href="#">Checkout</a></li>
+                        <li><a href="profile.php">My Account</a></li>
+                        <li><a href="orders.php">Orders Tracking</a></li>
+                        <li><a href="checkout.php">Checkout</a></li>
                         <li><a href="#">Wishlist</a></li>
                     </ul>
                 </div>

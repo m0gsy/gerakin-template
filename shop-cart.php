@@ -78,6 +78,7 @@
     <!-- Breadcrumb End -->
 
     <!-- Shop Cart Section Begin -->
+    
     <section class="shop-cart spad">
         <div class="container">
             <div class="row">
